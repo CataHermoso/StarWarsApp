@@ -42,7 +42,7 @@ struct PjView: View {
                         .font(.body)
                     Text("vehicles: none")
                         .foregroundColor(.white)
-                        .font(.body)
+                        
                 }
             }
         }
